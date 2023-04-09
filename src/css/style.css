@@ -1,0 +1,27 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(218, 23%, 16%);
+    color: hsl(193, 38%, 86%);
+}
+
+.principal{
+    position: relative;
+    width: 400px;
+    height: 250px;
+    padding: 1rem;
+    text-align: center;
+    background-color: hsl(217, 19%, 24%);
+}
+.principal header{
+    font-size: .4rem;
+    letter-spacing: .2rem;
+    color: hsl(150, 100%, 66%);
+}
+
+.content p{
+    font-size: 1.4rem;
+}
+
+.content {
+
+}
